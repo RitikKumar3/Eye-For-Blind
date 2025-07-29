@@ -1,5 +1,5 @@
 # Capstone Project : Eye For Blind
-# 🖼️ Image Captioning with Speech Output
+## 🖼️ Image Captioning with Speech Output
 - In this project, we build a **CNN-RNN model with Attention Mechanism** to generate descriptive captions for images and convert them into **speech output**. This solution is designed to assist visually impaired individuals in understanding images through audio descriptions.
 
 ---
